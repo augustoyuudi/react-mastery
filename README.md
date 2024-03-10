@@ -4,3 +4,4 @@
 - Context to state management
 - SWR to make HTTP requests
 - react-query to make HTTP requests
+- react-hook-form to handle forms
